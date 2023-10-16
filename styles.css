@@ -1,0 +1,12 @@
+#suggested-keywords {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    margin: 50px auto;
+}
+#suggested-keywords div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
